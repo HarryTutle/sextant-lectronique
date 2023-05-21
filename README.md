@@ -8,3 +8,14 @@ Le sextant est intégré dans un boitier, avec un visuer de lunette astro pour f
 
 Actuellement le sextant fonctionne assez bien avec le Soleil (précision de 30 km environ) mais pas terrible pour la Lune (environ 120 km de précision). Cela peut s'expliquer peut-être par le nombre élevé de calculs à faire pour les mouvements de la Lune, et donc un cumul des erreurs plus conséquent.
 
+Circuit et montage:
+
+![circuit-electronique-du-sextant-modif1-1024x907](https://github.com/HarryTutle/sextant-lectronique/assets/82940602/d82fb0de-2a6a-4f24-8a50-8bd7ec44afd6)
+
+
+Quelques photos:
+
+![montage1-1024x576](https://github.com/HarryTutle/sextant-lectronique/assets/82940602/48b0adb8-8985-4145-b0a2-3da68d377287)
+
+![montage9-1024x576](https://github.com/HarryTutle/sextant-lectronique/assets/82940602/8fd73f2e-ce66-4f09-aa58-df04967e3123)
+
